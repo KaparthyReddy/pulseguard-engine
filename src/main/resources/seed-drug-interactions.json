@@ -1,0 +1,20 @@
+[
+  {
+    "drugA": "WARFARIN",
+    "drugB": "ASPIRIN",
+    "severity": "MAJOR",
+    "note": "Combined anticoagulant/antiplatelet effect significantly increases bleeding risk"
+  },
+  {
+    "drugA": "WARFARIN",
+    "drugB": "MORPHINE",
+    "severity": "MINOR",
+    "note": "No significant pharmacodynamic interaction reported"
+  },
+  {
+    "drugA": "ASPIRIN",
+    "drugB": "MORPHINE",
+    "severity": "MODERATE",
+    "note": "Opioid-induced GI motility changes may affect NSAID absorption"
+  }
+]
